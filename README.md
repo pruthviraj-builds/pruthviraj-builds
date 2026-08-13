@@ -1,16 +1,21 @@
-## Hi there 👋
+# pruthviraj@github ~ $ whoami
 
-<!--
-**pruthviraj-builds/pruthviraj-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+       /\         Role:     Full-Stack Developer
+      /  \        Stack:    React, Next.js, TypeScript, Node.js
+     /\   \       Focus:    Building high-performance web applications
+    /      \      Status:   Open to collaborations & projects
+```
+# 🛠️ Tech Stack
+* Frontend: React, Next.js, TypeScript, JavaScript
 
-Here are some ideas to get you started:
+* Backend: Node.js, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Tools & Cloud: Git, Vercel
+
+# 📌 Featured Highlights
+* Crafting fast, scalable frontends using React and Next.js.
+
+* Building robust backends and real-time solutions with Node.js and Firebase.
+
+* Deploying seamless web applications using Vercel.
